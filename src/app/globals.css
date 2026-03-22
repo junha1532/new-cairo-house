@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply bg-white text-zinc-950 antialiased;
+}
+
+/* Subtle selection for premium feel */
+::selection {
+  background: theme(colors.sand.200);
+}
+
