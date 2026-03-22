@@ -1,6 +1,6 @@
 1:HL["/new-cairo-house/_next/static/css/cd1bcdf38122a408.css","style",{"crossOrigin":""}]
-0:["YfHPID2ea_XY2RL11FBgN",[[["",{"children":["contact",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/new-cairo-house/_next/static/css/cd1bcdf38122a408.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[8326,["326","static/chunks/326-ffc3eacac843ddd2.js","931","static/chunks/app/page-ad7a692d4ff27461.js"],""]
+0:["RU9TXlcjl-yUnv2LEuQDH",[[["",{"children":["contact",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/new-cairo-house/_next/static/css/cd1bcdf38122a408.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[8326,["326","static/chunks/326-ffc3eacac843ddd2.js","160","static/chunks/app/not-found-bb3e921b5e162233.js"],""]
 5:I[6954,[],""]
 6:I[7264,[],""]
 8:I[360,["326","static/chunks/326-ffc3eacac843ddd2.js","327","static/chunks/app/contact/page-13941eed0950ede2.js"],"ContactForm"]
